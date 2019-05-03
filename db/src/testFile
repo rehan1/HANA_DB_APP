@@ -1,3 +1,7 @@
 test file a
+<<<<<<< HEAD
+Adding second line blah blah idli a
+=======
 Adding second line
 Adding 3rd line
+>>>>>>> refs/heads/master
